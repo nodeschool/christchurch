@@ -4,6 +4,9 @@ Nodeschool, Christchurch, New Zealand
 
 Welcome to the Christchurch, NZ chapter of nodeschool
 
+## Join us
+[Create a new issue](https://github.com/nodeschool/christchurch/issues/new) with the Title: "Please add me as a member" Feel free to tell us something about yourself in the "Leave a comment" part of the issue.
+
 ## Website
 A website for the chapter is now up at [nodeschool.io/christchurch](http://nodeschool.io/christchurch)
 
